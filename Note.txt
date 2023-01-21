@@ -1,0 +1,1 @@
+This tends to be a dummy practices file for package provider. 
